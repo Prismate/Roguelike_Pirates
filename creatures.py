@@ -2,6 +2,7 @@ import random
 import display_information
 from termcolor import colored
 
+
 """
 ************************************
             CREATURES
@@ -309,5 +310,3 @@ def win_the_game(boss_health):
         return True
     else:
         return False
-
-print(put_boss_on_board())
