@@ -3,6 +3,7 @@ import os
 from termcolor import colored
 import engine
 
+
 sent_1 = "Greetings, mighty CAPTAIN!"
 sent_2 = "You've come across manny seas\n to get back your treasure!"
 sent_2_1 = "But beware!"
