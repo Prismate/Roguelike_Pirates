@@ -6,6 +6,7 @@ import inventory
 from termcolor import colored
 import display_information
 
+
 board_1_dict = {
     "board": [],
     "available_indices": [],
