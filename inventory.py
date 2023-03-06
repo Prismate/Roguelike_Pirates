@@ -2,6 +2,7 @@ import random
 import creatures
 from termcolor import colored
 
+
 inventory_hero = {}
 
 """
